@@ -45,6 +45,7 @@
               "extractLicenses": true,
               "vendorChunk": false,
               "buildOptimizer": true,
+              "baseHref": "https://dev18x.github.io/ng-travis-example/",
               "budgets": [
                 {
                   "type": "initial",
